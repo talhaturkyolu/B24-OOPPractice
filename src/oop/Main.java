@@ -8,7 +8,7 @@ public class Main {
 
 
 
-        //test
+        //tests
         //*******OOP-Inherita*******//
 
 
