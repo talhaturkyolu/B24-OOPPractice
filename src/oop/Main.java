@@ -8,7 +8,7 @@ public class Main {
 
 
 
-
+        // this is master code
         //*******OOP-Inheritance*******//
 
 
